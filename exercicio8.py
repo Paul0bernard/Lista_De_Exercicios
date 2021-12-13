@@ -38,5 +38,3 @@ if len(listas) > 4:
    print("assasino!")
 if len(listas) < 2:
     print("Voce é inocente")    
-
-    
