@@ -37,4 +37,4 @@ if len(listas) > 2 and len(listas) <= 4:
 if len(listas) > 4:
    print("assasino!")
 if len(listas) < 2:
-    print("Voce é inocente") 
+    print("Voce é inocente")    
